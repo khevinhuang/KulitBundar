@@ -1,0 +1,8 @@
+{
+  type: 'video',
+  url: 'https://www.youtube.com/embed/CvYwJ93tJ8Y?autoplay=1&mute=1&playsinline=',
+  duration: 25000,
+  // type: 'image',
+  // url: 'https://kulitbundar.com/wp-content/uploads/2025/07/Ad-sidebar_RPG.jpg.webp',
+  // duration: 25000,
+};
