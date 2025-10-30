@@ -1,7 +1,7 @@
 {
     "type": "video",
     "url": "https://www.youtube.com/embed/CvYwJ93tJ8Y?autoplay=1&mute=1&playsinline=",
-    "duration": 25000,
+    "duration": 32000,
     "downloadUrl": {
         "android": "https://play.google.com/store/apps/details?id=tech.element6.gardenguardians",
         "ios": null
