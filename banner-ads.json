@@ -1,9 +1,49 @@
 {
-    "type": "video",
-    "url": "https://www.youtube.com/embed/CvYwJ93tJ8Y?autoplay=1&mute=1&playsinline=",
-    "duration": 32000,
-    "downloadUrl": {
-        "android": "https://play.google.com/store/apps/details?id=tech.element6.gardenguardians",
-        "ios": null
-    }
+    "ads": [
+        {
+            "type": "video_potrait",
+            "url": "https://www.youtube.com/embed/CvYwJ93tJ8Y?autoplay=1&mute=1&playsinline=",
+            "duration": 32000,
+            "downloadUrl": {
+                "android": "https://play.google.com/store/apps/details?id=tech.element6.gardenguardians",
+                "ios": null
+            }
+        },
+        {
+            "type": "video_potrait",
+            "url": "https://www.youtube.com/embed/NTpQy339YNo?autoplay=1&mute=1&playsinline=",
+            "duration": 29000,
+            "downloadUrl": {
+                "android": "https://play.google.com/store/apps/details?id=tech.element6.gardenguardians",
+                "ios": null
+            }
+        },
+        {
+            "type": "video_potrait",
+            "url": "https://www.youtube.com/embed/zbXSMci5jsE?autoplay=1&mute=1&playsinline=",
+            "duration": 31000,
+            "downloadUrl": {
+                "android": "https://play.google.com/store/apps/details?id=tech.element6.gardenguardians",
+                "ios": null
+            }
+        },
+        {
+            "type": "video_potrait",
+            "url": "https://www.youtube.com/embed/lgLpP3CXTKw?autoplay=1&mute=1&playsinline=",
+            "duration": 29000,
+            "downloadUrl": {
+                "android": "https://play.google.com/store/apps/details?id=tech.element6.gardenguardians",
+                "ios": null
+            }
+        },
+        {
+            "type": "video_potrait",
+            "url": "https://www.youtube.com/embed/pxVjO3lI2f8?autoplay=1&mute=1&playsinline=",
+            "duration": 45000,
+            "downloadUrl": {
+                "android": "https://play.google.com/store/apps/details?id=tech.element6.gardenguardians",
+                "ios": null
+            }
+        }
+    ]
 }
